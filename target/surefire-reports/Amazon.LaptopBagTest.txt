@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Amazon.LaptopBagTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.31 s -- in Amazon.LaptopBagTest
